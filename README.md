@@ -1,4 +1,4 @@
-**Project Description**
+**Project Description:**
 This project is a responsive website designed to provide a seamless user experience across both mobile and desktop views, adhering to the provided design specifications. The website utilizes the Sora font for consistent typography across all sections.
 
 **Key Features:**
